@@ -2926,5 +2926,65 @@
     "start_date_local": "2026-02-19T19:07:21",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 6400.0,
+    "elevation_gain": 0.0,
+    "id": "21931240004",
+    "moving_time": 2393.71300804615,
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-02-20T19:30:18",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 36106.28125,
+    "elevation_gain": 198.0,
+    "id": "21934875294",
+    "moving_time": 4409.0,
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-02-21T07:42:34",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 28056.720703125,
+    "elevation_gain": 186.0,
+    "id": "21935562548",
+    "moving_time": 3617.0,
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-02-21T09:02:26",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 2742.590087890625,
+    "elevation_gain": 19.0,
+    "id": "21935845922",
+    "moving_time": 1194.7300109863281,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-02-21T10:05:15",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 1834.199951171875,
+    "elevation_gain": 0.0,
+    "id": "21937333117",
+    "moving_time": 1757.0,
+    "raw_activity_type": "tennis_v2",
+    "raw_type": "tennis_v2",
+    "start_date_local": "2026-02-21T11:28:50",
+    "type": "tennis_v2",
+    "year": 2026
   }
 ]
